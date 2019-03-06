@@ -1,0 +1,15 @@
+
+GETALL:
+[{"TaskId":1,"ParentTaskId":1,"TaskName":"testTaskA","Priority":25,"StartDate":"2019-03-03T22:44:01.12","EndDate":"2019-03-03T22:44:01.12","isTaskEnded":0},
+
+{"TaskId":2,"ParentTaskId":1,"TaskName":"testTaskB","Priority":75,"StartDate":"2019-03-03T22:44:23.327","EndDate":"2019-03-23T22:44:23.327","isTaskEnded":0},
+
+{"TaskId":1002,"ParentTaskId":1,"TaskName":"Task4","Priority":25,"StartDate":"2019-03-05T00:00:00","EndDate":"2019-03-14T00:00:00","isTaskEnded":0},
+
+{"TaskId":2002,"ParentTaskId":1,"TaskName":"Test","Priority":96,"StartDate":"2019-03-06T00:00:00","EndDate":"2019-03-30T00:00:00","isTaskEnded":0},
+
+{"TaskId":2003,"ParentTaskId":6,"TaskName":"Task4","Priority":41,"StartDate":"2019-03-07T00:00:00","EndDate":"2019-03-29T00:00:00","isTaskEnded":0}]
+
+
+GetbyID:
+{"TaskId":2,"ParentTaskId":1,"TaskName":"testTaskB","Priority":75,"StartDate":"2019-03-03T22:44:23.327","EndDate":"2019-03-23T22:44:23.327","isTaskEnded":0}
